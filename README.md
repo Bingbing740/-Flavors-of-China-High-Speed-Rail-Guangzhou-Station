@@ -623,7 +623,7 @@
 
     <!-- 模拟展演评分 -->
     <div class="card">
-      <div class="card-title"><span class="icon">🎭</span> 模拟展演评分（教师用）</div>
+      <div class="card-title"><span class="icon">🎭</span> 模拟展演评分</div>
       <table class="score-table">
         <thead>
           <tr><th>评价维度</th><th>说明</th><th>分值</th><th>得分</th></tr>
